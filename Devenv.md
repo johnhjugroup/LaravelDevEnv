@@ -39,34 +39,35 @@
 ``SELECT user,authentication_string,plugin,host FROM mysql.user;`` -- Check auth
 ``exit``
 
-# Install PhpMyAdmin
+## Install PhpMyAdmin
 - Just download https://www.phpmyadmin.net/downloads/
 
-# Install vim
+## Install vim
 ``sudo apt install vim -y``
 
-# Install git
+## Install git
 ``sudo apt install git -y``
 - Fix old keys permissions
 ``sudo chmod 600 ~/.ssh/config``
 ``sudo chmod 600 ~/.ssh/hju_rsa``
 ``sudo chmod 600 ~/.ssh/other_rsa``
-# Set vim as default editor
-git config --global core.editor "vim"
 
-# Zsh
+## Set vim as default editor
+``git config --global core.editor "vim"``
+
+## Zsh
 ``sudo apt install zsh -y``
 ``zsh --version``
 ``chsh -s $(which zsh)`` -- re-login
 
-# Install Oh-My-Zsh
-sudo apt install curl
-sh -c "$(curl -fsSL https://raw.githubusercontent.com/robbyrussell/oh-my-zsh/master/tools/install.sh)"
--- Pi Theme
-wget -O ~/.oh-my-zsh/themes/pi.zsh-theme https://raw.githubusercontent.com/tobyjamesthomas/pi/master/pi.zsh-theme
+## Install Oh-My-Zsh
+``sudo apt install curl``
+``sh -c "$(curl -fsSL https://raw.githubusercontent.com/robbyrussell/oh-my-zsh/master/tools/install.sh)"``
+- Pi Theme
+``wget -O ~/.oh-my-zsh/themes/pi.zsh-theme https://raw.githubusercontent.com/tobyjamesthomas/pi/master/pi.zsh-theme``
 
 # Install Mailhog
 - Arch only
 ``yay -S mailhog-bin``
 - Debian
-- https://www.lullabot.com/articles/installing-mailhog-for-ubuntu-1604
+Check https://www.lullabot.com/articles/installing-mailhog-for-ubuntu-1604
