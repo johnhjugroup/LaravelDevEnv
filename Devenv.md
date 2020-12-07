@@ -64,5 +64,5 @@ wget -O ~/.oh-my-zsh/themes/pi.zsh-theme https://raw.githubusercontent.com/tobyj
 # Install Mailhog
 # Arch only
 yay -S mailhog-bin
-
+# Debian
 https://www.lullabot.com/articles/installing-mailhog-for-ubuntu-1604
