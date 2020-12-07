@@ -1,8 +1,6 @@
 # Laravel Set-up for Linux Distros
 
-### TODO Arch
-
-### This is for Ubuntu 20.04 base distributions
+### This is for Ubuntu 20.04 base distributions (For now)
 - This will just waste your time but it's important :)
 ```
 sudo apt update
@@ -105,10 +103,15 @@ wget -O ~/.oh-my-zsh/themes/pi.zsh-theme https://raw.githubusercontent.com/tobyj
 
 ### Install Mailhog
 
-- Arch only
+- Arch
 ```
 yay -S mailhog-bin
 ```
 
 - Debian
 Check https://www.lullabot.com/articles/installing-mailhog-for-ubuntu-1604
+
+
+
+
+### TODO Arch
