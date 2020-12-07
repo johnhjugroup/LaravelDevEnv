@@ -1,6 +1,6 @@
 # Laravel Set-up for Linux Distros
 
-### This is for Ubuntu 20.04 base distributions (For now)
+### This is for Ubuntu 20.04 base distributions
 - This will just waste your time but it's important :)
 ```
 sudo apt update
