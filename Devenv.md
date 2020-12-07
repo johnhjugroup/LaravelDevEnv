@@ -3,7 +3,7 @@
 ## TODO Arch
 
 ## This is for Ubuntu 20.04 base distributions
--- This will just waste your time but it's important :)
+- This will just waste your time but it's important :)
 ``sudo apt update``
 ``sudo apt upgrade``
 
