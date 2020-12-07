@@ -82,7 +82,9 @@ sudo chmod 600 ~/.ssh/other_rsa
 ```
 
 ### Set vim as default editor
-``git config --global core.editor "vim"``
+```
+git config --global core.editor "vim"
+```
 
 ### Zsh
 ```
