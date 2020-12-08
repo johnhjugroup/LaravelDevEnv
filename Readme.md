@@ -8,6 +8,7 @@ sudo apt upgrade
 ```
 
 ### Install PHP
+- Note: Do not install apache since you are using valet
 ```
 sudo apt install software-properties-common
 sudo add-apt-repository ppa:ondrej/php
