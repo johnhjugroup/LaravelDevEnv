@@ -118,5 +118,5 @@ Check https://www.lullabot.com/articles/installing-mailhog-for-ubuntu-1604
 
 
 ### TODO Arch
-- Arch from scratch
+- Arch from scratch (VM)
 https://www.youtube.com/watch?v=xKZ958SXp0U
