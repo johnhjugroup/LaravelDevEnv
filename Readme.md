@@ -120,3 +120,4 @@ Check https://www.lullabot.com/articles/installing-mailhog-for-ubuntu-1604
 ### TODO Arch
 - Arch from scratch (VM)
 https://www.youtube.com/watch?v=xKZ958SXp0U
+https://www.reddit.com/r/archlinux/comments/b0ona0/vmtools_on_arch_linux_full_screen_or_resizing/
